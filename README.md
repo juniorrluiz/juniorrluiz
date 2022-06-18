@@ -29,7 +29,7 @@
      
   </div>
  
-  ![Snake animation](https://github.com/juniorrluiz/juniorrluiz/blob/output/github-contribution-grid-snake.svg) 
+   ![Snake animation](https://github.com/juniorrluiz/juniorrluiz/blob/output/github-contribution-grid-snake.svg) 
   
  
 
